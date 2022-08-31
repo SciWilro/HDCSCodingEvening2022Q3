@@ -25,7 +25,7 @@ def main():
 
 
 def calculate_pascal(n: int) -> int:
-    return 2 ** (n - 10)
+    return 2 ** (n - 1)
 
 
 if __name__ == "__main__":
